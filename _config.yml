@@ -8,10 +8,10 @@ exclude:
 
 # Site settings
 title: Bridge in Ice Timelapses
-subtitle: "Daily timelapse for the Bridge in Ice project"
+subtitle: "Unofficial daily timelapse for the Bridge in Ice project"
 #email: blcentra@gmail.com
 #name: Ben Centra
-description: Daily timelapse for the Bridge in Ice project
+description: Unofficial daily timelapse for the Bridge in Ice project
 # Base URL of site (i.e. /blog). It should always start with a slash,
 # and never end with a slash. Set it to a blank value if hosting at the
 # root of your server.
