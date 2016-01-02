@@ -10,6 +10,6 @@ tags:	timelapse daily
 Timelapse for 2015-12-31
 
 <video width="640" height="480" controls>
-  <source src="https://cdn.rawgit.com/bridge-in-ice/bridge-in-ice/master/2015-12-31.webm" type="video/webm">
+  <source src="https://media.githubusercontent.com/media/bridge-in-ice/bridge-in-ice/master/2015-12-31.webm" type="video/webm">
   Your browser does not support the video tag.
 </video>
