@@ -9,7 +9,7 @@ tags:	timelapse daily
 ---
 Timelapse for 2016-01-01
 
-<video width="640" height="480" controls>
+<video width="640" height="480" controls="true">
   <source src="https://rest.s3for.me/bridgeinice/2016-01-01.webm" type="video/webm">
   Your browser does not support the video tag.
 </video>
