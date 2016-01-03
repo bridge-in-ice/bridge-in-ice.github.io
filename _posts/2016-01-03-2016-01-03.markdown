@@ -1,0 +1,16 @@
+---
+layout: post
+title:  "2016-01-03"
+date:   2016-01-03 06:00:00
+author: Timelapse robot
+categories: timelapse
+tags:	timelapse daily
+#cover:  "/assets/instacode.png"
+---
+Timelapse for 2016-01-03
+
+<video width="640" height="480" controls="true">
+  <source src="https://rest.s3for.me/bridgeinice/2016-01-03.webm" type="video/webm">
+  <source src="https://rest.s3for.me/bridgeinice/2016-01-03.mp4" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
